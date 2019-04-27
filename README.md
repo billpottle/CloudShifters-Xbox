@@ -2,7 +2,7 @@
 Project Spark Files for the CloudShifters game
 
 The CloudShifters game was made to run on Project Spark, which made it available for free to Xbox One users as well as Windows 10 users. 
-Microsoft picked it as one of the top games for the platform, and featured it on the home screen for the app. 
+Microsoft picked it as one of the top games for the platform, and featured it on the home screen for the app. The game was comissioned for the Cloud Lands Saga Books (https://www.amazon.com/Cloud-Shifters-Lands-Saga-Book-ebook/dp/B0746D8WFY) and players could win various real world prizes, such as the ability to name a character in future books in the series. 
 
 The game is a zelda-type fighting, puzzle RPG with about 90 minutes of total gameplay.  You can see a video playthrough at (https://www.youtube.com/watch?v=hP47fWrTeB8). The game features saves, jumping through worlds, custom art, a level system, magic, various weapons, etc. 
 
