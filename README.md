@@ -19,3 +19,4 @@ The game consists of 4 levels
 Unfotunately, Microsoft shut down the servers for Project Spark in Aug 2016. If you ever had Project Spark installed for Windows 10, you can download these level files from here or from sparkshare.ch and play the game. It is not currently possible to install Project Spark if your Microsoft account didn't previously download it. 
 
 ![Level2](https://github.com/billpottle/CloudShifters-Xbox/blob/master/Screen1.jpg)
+![Weapons Guide](https://github.com/billpottle/CloudShifters-Xbox/blob/master/Weapons%20guide.jpg)
